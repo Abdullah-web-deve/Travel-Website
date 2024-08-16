@@ -1,9 +1,5 @@
 # React JS Travel Website |
 
-## Tutorial YouTube link - [React JS Travel Website - Responsive ReactJS Project using Bootstrap 5](https://youtu.be/0uuPYVz6MHw?si=qbQSr-JUo70NakKT)
-
-
-
 ## What did I use to develop this project?
 - [React JS](https://react.dev/) - Front-End JavaScript library
 - [Visual Studio Code Editor](https://code.visualstudio.com/) - source-code editor
